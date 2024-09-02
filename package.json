@@ -1,15 +1,58 @@
 {
-  "name": "ror-developement-package",
-  "displayName": "ror-developement-package",
-  "description": "A complete VS code extension package for Ruby on rails dvelopement environment.",
+  "name": "ror-development-package",
+  "displayName": "ROR development package",
+  "description": "A complete VS code extension package for Ruby on rails development environment.",
   "version": "0.0.1",
+  "publisher": "anilnabin25",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anilnabin25/ror-development-package"
+  },
   "engines": {
     "vscode": "^1.92.0"
   },
   "categories": [
     "Extension Packs"
   ],
+  "keywords": [
+    "ruby",
+    "ruby on rails",
+    "ror",
+    "tailwind",
+    "tailwindcss"
+  ],
+  "icon": "images/icon.png",
   "extensionPack": [ 
-    "publisher.extensionName"
+    "rebornix.Ruby", 
+    "castwide.solargraph",
+    "bung87.rails",
+    "Shopify.ruby-lsp",
+    "aliariff.vscode-erb-beautify",
+    "bung87.vscode-gemfile"
+    "Lokalise.i18n-ally",
+    "aki77.rails-db-schema",
+    "aki77.rails-partial",
+    "aki77.rails-routes",
+    "aki77.rails-i18n",
+    "CraigMaslowski.erb",
+    "noku.rails-run-spec-vscode",
+    "connorshea.vscode-ruby-test-adapter",
+    "Thadeu.vscode-run-rspec-file",
+    "wingrunr21.vscode-ruby",
+    "rubocop.vscode-rubocop",
+
+    "dbaeumer.vscode-eslint",
+
+    "formulahendry.auto-rename-tag",
+    "vincaslt.highlight-matching-tag",
+    "esbenp.prettier-vscode",
+    "mikestead.dotenv",
+    "damms005.devdb",
+    "eamodio.gitlens",
+    "streetsidesoftware.code-spell-checker",
+
+    "Zignd.html-css-class-completion",
+    "bradlc.vscode-tailwindcss",
+    "heybourn.headwind"
   ]
 }
