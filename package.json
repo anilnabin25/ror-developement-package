@@ -1,0 +1,15 @@
+{
+  "name": "ror-developement-package",
+  "displayName": "ror-developement-package",
+  "description": "A complete VS code extension package for Ruby on rails dvelopement environment.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "publisher.extensionName"
+  ]
+}
