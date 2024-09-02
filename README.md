@@ -10,7 +10,7 @@ Extension | Description
 [Ruby LSP](https://marketplace.visualstudio.com/items?itemName=Shopify.ruby-lsp) | VS Code plugin for connecting with the Ruby LSP.
 [ERB Formatter/Beautify](https://marketplace.visualstudio.com/items?itemName=aliariff.vscode-erb-beautify) | Format/Beautify ERB files.
 [vscode-gemfile](https://marketplace.visualstudio.com/items?itemName=bung87.vscode-gemfile) | provide hover link in Gemfile refers to online site.
-[i18n Ally](https://marketplace.visualstudio.com/items?itemName=Lokalise.i18n-ally) | 🌍 All in one i18n extension for VS Code.
+[i18n Ally](https://marketplace.visualstudio.com/items?itemName=Lokalise.i18n-ally) | All in one i18n extension for VS Code.
 [Rails DB Schema](https://marketplace.visualstudio.com/items?itemName=aki77.rails-db-schema) | Definition and Completion provider for Rails DB Schema..
 [Rails Partial](https://marketplace.visualstudio.com/items?itemName=aki77.rails-partial) | Definition, Completion and CodeAction provider for Rails Partial..
 [Rails Routes](https://marketplace.visualstudio.com/items?itemName=aki77.rails-routes) | Definition and Completion provider for Rails Routes..
